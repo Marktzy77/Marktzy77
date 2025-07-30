@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Something Interesting
+Learning Something Interesting is Fun
 
 
 ## 🌐 Socials:
@@ -20,6 +20,3 @@ Learning Something Interesting
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xig60991@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
